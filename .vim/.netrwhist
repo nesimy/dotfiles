@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/nesim'
+let g:netrw_dirhist_2='/etc/X11/Xsession.d'
+let g:netrw_dirhist_3='/home/nesim/Desktop'
+let g:netrw_dirhist_4='/home/nesim/Downloads'
+let g:netrw_dirhist_5='/home/nesim/Downloads/font-awesome-4.2.0'
+let g:netrw_dirhist_6='/home/nesim/Downloads/font-awesome-4.2.0/less'
